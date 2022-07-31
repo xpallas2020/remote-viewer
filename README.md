@@ -5,3 +5,5 @@ For more details: https://github.com/virt-manager/virt-manager
 
 How to build virt-manager on windows?
 
+For dependency info and installation instructions, see the INSTALL.md file
+
